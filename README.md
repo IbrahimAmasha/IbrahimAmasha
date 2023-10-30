@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**IbrahimAmasha/IbrahimAmasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves PHP and Laravel. I enjoy building web applications that are both efficient and user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+```php
+<?php
+echo "Laravel Developer";
+?>
+
+## Get in Touch
+
+Feel free to reach out if you want to collaborate on a project or just chat about PHP, Laravel, or web development in general. You can find me at the following places:
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ibrahim-amasha-24199a230/)
+- **Email**: [Your Email Address](mailto:ibrahimamasha7@gmail.com)
+
+Looking forward to connecting with you! 😄
+
