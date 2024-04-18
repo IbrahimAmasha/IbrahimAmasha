@@ -15,3 +15,4 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 Looking forward to connecting with you! 😄
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IbrahimAmasha)](https://git.io/streak-stats)
