@@ -19,7 +19,7 @@ Looking forward to connecting with you! 😄
     <a href="https://git.io/streak-stats" target="_blank">
         <img src="https://streak-stats.demolab.com?user=IbrahimAmasha&theme=whatsapp-light2&border_radius=5.4" alt="GitHub Streak" />
     </a>
-    <a position: absolute; top: 0; right: 0; href="https://github.com/IbrahimAmasha" target="_blank">
+    <a padding:5px; position: absolute; top: 0; right: 0; href="https://github.com/IbrahimAmasha" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimAmasha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </a>
 </div>
