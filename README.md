@@ -17,4 +17,4 @@ Looking forward to connecting with you! 😄
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbrahimAmasha&theme=whatsapp-light2&border_radius=5.4)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimAmasha&show_icons=true&locale=en&layout=compact" alt="IbrahimAmasha" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimAmasha&show_icons=true&locale=en&layout=compact" alt="IbrahimAmasha" /></p>
