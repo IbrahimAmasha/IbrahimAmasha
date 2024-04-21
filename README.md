@@ -16,3 +16,5 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 Looking forward to connecting with you! 😄
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbrahimAmasha&theme=whatsapp-light2&border_radius=5.4)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAmasha)](https://github.com/IbrahimAmasha/github-readme-stats)
