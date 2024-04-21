@@ -15,6 +15,11 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 Looking forward to connecting with you! 😄
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IbrahimAmasha&theme=whatsapp-light2&border_radius=5.4)](https://git.io/streak-stats)
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimAmasha&show_icons=true&locale=en&layout=compact" alt="IbrahimAmasha" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://git.io/streak-stats" target="_blank">
+        <img src="https://streak-stats.demolab.com?user=IbrahimAmasha&theme=whatsapp-light2&border_radius=5.4" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/IbrahimAmasha" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimAmasha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </a>
+</div>
