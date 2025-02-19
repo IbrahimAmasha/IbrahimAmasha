@@ -2,7 +2,7 @@
 # Hi there, I'm Ibrahim Amasha
 
 I'm a passionate developer who loves PHP and Laravel. I enjoy building web applications that are both efficient and user-friendly.
-hello
+
  
  
 
